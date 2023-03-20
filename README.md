@@ -1,3 +1,3 @@
-#Learning Git
+# Learning Git
 
 Creating a README file
